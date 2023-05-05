@@ -1,6 +1,6 @@
 [requires]
-glfw/3.3.8
-glm/cci.20230113
+zlib/1.2.11
 
 [generators]
+CMakeDeps
 CMakeToolchain

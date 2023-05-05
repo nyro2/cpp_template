@@ -1,1 +1,1 @@
-conan install conanfile.txt --build=missing
+conan install conanfile.txt --output-folder='../build' --build=missing
